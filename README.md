@@ -1,2 +1,2 @@
 # Cooker
-A web platform for adding up receipes and making your own recepie book.
+A web platform for adding up recipes and making your own recipe book.
